@@ -1,0 +1,3 @@
+/home/jark-ubuntu/ws/cppTest/build/CMakeFiles/rebuild_cache.dir
+/home/jark-ubuntu/ws/cppTest/build/CMakeFiles/CPPTEST.dir
+/home/jark-ubuntu/ws/cppTest/build/CMakeFiles/edit_cache.dir

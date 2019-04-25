@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/CPPTEST.dir/src/add.cc.o CMakeFiles/CPPTEST.dir/src/main.cc.o  -o CPPTEST -lm 

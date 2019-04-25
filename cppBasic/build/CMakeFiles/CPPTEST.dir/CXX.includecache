@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/add.h
+
+/home/jark-ubuntu/ws/cppTest/src/add.cc
+iostream
+-
+add.h
+/home/jark-ubuntu/ws/cppTest/src/add.h
+
+/home/jark-ubuntu/ws/cppTest/src/main.cc
+iostream
+-
+add.h
+/home/jark-ubuntu/ws/cppTest/src/add.h
+
